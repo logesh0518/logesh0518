@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Logesh M
 
-<!--
-**logesh0518/logesh0518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence & Data Science Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in AI, Data Science & Java
+
+🚀 Building projects and learning new technologies
+
+## 🛠️ Skills
+
+- Java
+- Python
+- SQL
+- Git & GitHub
+- Artificial Intelligence
+- Data Science
+
+## 🚀 Projects
+
+### DriveSafeAI
+AI-based driver drowsiness detection project that monitors eye closure and provides an alert to improve driver safety.
+
+## 📚 Currently Learning
+
+- Java
+- Data Structures
+- AI & Machine Learning
+- Data Science
+
+## 🎯 Goal
+
+To become a skilled software developer and build useful real-world applications.
+
+---
+
+⭐ Thanks for visiting my profile!
